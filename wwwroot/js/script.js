@@ -1,1 +1,0 @@
-document.getElementById("comprar").onclick=()=>alert("Bem-vindo!");
